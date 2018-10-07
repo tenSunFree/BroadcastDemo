@@ -10,7 +10,7 @@ BroadcastReceiver Tutorial Part 1~3
 https://www.youtube.com/watch?v=8FJ3oOpHszc&index=1&list=PLrnPJCHvNZuBqr_0AS9BPXgU6gvNeai5S
 
 修改器                                 
-https://play.google.com/store/apps/details?id=com.hopenglish.hopenglish
+https://github.com/tenSunFree/BroadcastSenderDemo/tree/master
                           
 預覽
 --------
